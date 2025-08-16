@@ -1,18 +1,17 @@
-# # Ignore the data directory
-# data/
-# raw/
-# processed/
+# Ignore the data directory
+raw/
+processed/
 
-# # Ignore Python virtual environment folders
-# venv/
-# .venv/
+# Ignore Python virtual environment folders
+venv/
+.venv/
 
-# # Ignore Jupyter Notebook checkpoints
-# .ipynb_checkpoints/
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
 
-# # Ignore Python cache
-# __pycache__/
+# Ignore Python cache
+__pycache__/
 
-# # Ignore any files with sensitive information
-# *.env
-# secrets.ini
+# Ignore any files with sensitive information
+*.env
+secrets.ini
