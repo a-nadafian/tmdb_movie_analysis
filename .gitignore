@@ -1,10 +1,12 @@
 # Ignore the data directory
 raw/
 processed/
+reports/figures/
 
 # Ignore Python virtual environment folders
 venv/
 .venv/
+.idea/
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
